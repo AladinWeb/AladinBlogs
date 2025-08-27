@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function fetchBlogs() {
     try {
-        const response = await fetch('../assets/blogs.json');
+        const response = await fetch('/AladinBlogs/assets/blogs.json');
         const blogs = await response.json();
         const blogGrid = document.getElementById('blog-grid');
 
