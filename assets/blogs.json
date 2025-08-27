@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Review of Example Website 1",
+        "category": "Tech",
+        "date": "2025-08-01",
+        "content": ["This is the first paragraph of the blog about Example Website 1. It covers what the site is and what I learned."],
+        "link": "/blog/example1.html"
+    },
+    {
+        "title": "Opinions on Example Website 2",
+        "category": "Design",
+        "date": "2025-08-15",
+        "content": ["Here's my take on Example Website 2. It's a great platform for creativity and user interaction."],
+        "link": "/blog/example2.html"
+    },
+    {
+        "title": "What I Learned from Example Website 3",
+        "category": "Education",
+        "date": "2025-08-20",
+        "content": ["Example Website 3 taught me a lot about online learning tools and their effectiveness."],
+        "link": "/blog/example3.html"
+    }
+]
